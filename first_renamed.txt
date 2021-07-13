@@ -1,0 +1,7 @@
+this is from master 
+dwewthis is version one of my project
+master
+i want this to go into commit 2
+
+changed by aditya
+this is changed now
